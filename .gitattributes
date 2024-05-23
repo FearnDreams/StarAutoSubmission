@@ -1,0 +1,7 @@
+# Ensure all text files use LF
+* text=auto eol=lf
+
+# Specific files
+*.java text eol=lf
+*.kt text eol=lf
+*.xml text eol=lf
